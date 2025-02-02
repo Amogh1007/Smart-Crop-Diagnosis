@@ -1,3 +1,3 @@
 # Smart-Crop-Diagnosis
 
-This is orange data mining project done.
+The project aims to find the disease in crop leaves and classify them.
